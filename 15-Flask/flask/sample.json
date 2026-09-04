@@ -1,0 +1,10 @@
+[
+  {
+    "name": "New item",
+    "description": "This is the new item"
+  },
+  {
+    "name": "Updated item",
+    "description": "This item is updated"
+  }
+]

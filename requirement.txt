@@ -1,0 +1,10 @@
+scikit-learn
+ipykernel
+numpy
+pandas
+matplotlib
+bs4
+flask
+memory_profiler
+streamlit
+scikit-learn

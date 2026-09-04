@@ -1,0 +1,3 @@
+Hello, How are you?
+I am fine
+Welcome to day 25 of learning AI and ML course
